@@ -5,5 +5,25 @@ This class is used to make a simple Frame which shows all four types of Calculat
    </p>
 
 # Connection
-This class just contains four methods and in each method the object of remaining four classes is instantiated. 
+This class just contains **four methods** and in each method **the object of remaining four classes is instantiated.** 
 
+# SIP Calculator
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/0e58911c-38fc-4183-a1b1-5226b2085059" alt="Image" width="300"/>
+   </p>
+
+# CAGR Calculator
+   <p align="center">
+     <img src="![CAGR](https://github.com/user-attachments/assets/e60ec649-f1a6-43de-9408-d3a1af2f1130" alt="Image" width="300"/>
+   </p>
+
+# Commercial Calculator
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/04a6976b-91a8-4591-9a9f-b361c6ee67b1" alt="Image" width="300"/>
+   </p>
+
+
+# EMI Calculator
+   <p align="center">
+     <img src="![Screenshot 2025-06-01 135554](https://github.com/user-attachments/assets/1c68cf5d-1390-459e-88fd-95dcbb1ff76b" alt="Image" width="300"/>
+   </p>
