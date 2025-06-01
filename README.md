@@ -3,11 +3,7 @@ This class is used to make a simple Frame which shows all four types of Calculat
    <p align="center">
      <img src="https://github.com/user-attachments/assets/9c9aebbd-5a16-4788-b710-7754a8d3f8eb" alt="Image" width="300"/>
    </p>
-   
-3. Connection:
-   a) 
-   SIP_Calculator:
-   CAGR_Calculator:
-   Commercial_Calculator:
-   EMI_Calculator
- 
+
+# Connection
+This class just contains four methods and in each method the object of remaining four classes is instantiated. 
+
