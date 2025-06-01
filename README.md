@@ -14,7 +14,7 @@ This class just contains **four methods** and in each method **the object of rem
 
 # CAGR Calculator
    <p align="center">
-     <img src="![CAGR](https://github.com/user-attachments/assets/e60ec649-f1a6-43de-9408-d3a1af2f1130" alt="Image" width="300"/>
+     <img src="https://github.com/user-attachments/assets/e60ec649-f1a6-43de-9408-d3a1af2f1130" alt="Image" width="300"/>
    </p>
 
 # Commercial Calculator
@@ -25,5 +25,5 @@ This class just contains **four methods** and in each method **the object of rem
 
 # EMI Calculator
    <p align="center">
-     <img src="![Screenshot 2025-06-01 135554](https://github.com/user-attachments/assets/1c68cf5d-1390-459e-88fd-95dcbb1ff76b" alt="Image" width="300"/>
+     <img src="https://github.com/user-attachments/assets/1c68cf5d-1390-459e-88fd-95dcbb1ff76b" alt="Image" width="300"/>
    </p>
