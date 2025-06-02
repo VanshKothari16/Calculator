@@ -15,7 +15,7 @@ In this class, I accept the Fixed amount invested every month as a SIP, the Rate
    </p>
 
 # CAGR Calculator
-This is the class where 
+This is the class where I accept the Current amount, Invested amount and Number of Years to calculate the CAGR or Compounded Annual Growth Rate. Same as SIP_Calcultor class here I'd used JTextField class to accept input and JOptionPane class to display the output using showMessageDialogue() method. 
    <p align="center">
      <img src="https://github.com/user-attachments/assets/e60ec649-f1a6-43de-9408-d3a1af2f1130" alt="Image" width="300"/>
    </p>
