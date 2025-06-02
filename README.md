@@ -8,6 +8,7 @@ This class is used to make a simple Frame which shows all four types of Calculat
 This class just contains **four methods** and in each method **the object of remaining four classes is instantiated.** 
 
 # SIP Calculator
+In this class, I accept the Fixed amount invested every month as a SIP, the Rate of Interest in Percentage, and the Number of years. I had used this formula: FV=P(1+i)^(n-1).
    <p align="center">
      <img src="https://github.com/user-attachments/assets/0e58911c-38fc-4183-a1b1-5226b2085059" alt="Image" width="300"/>
    </p>
