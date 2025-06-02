@@ -8,12 +8,14 @@ This class is used to make a simple Frame which shows all four types of Calculat
 This class just contains **four methods** and in each method **the object of remaining four classes is instantiated.** 
 
 # SIP Calculator
-In this class, I accept the Fixed amount invested every month as a SIP, the Rate of Interest in Percentage, and the Number of years. I had used this formula: FV=P(1+i)^(n-1).
+In this class, I accept the Fixed amount invested every month as a SIP, the Rate of Interest in Percentage, and the Number of years. I had used this formula:
+**FV=P(1+i)[(1+i)^(n-1)]/i**, where Fv- Future Value, P=Principal, i=Rate of Interest/1200; n=number of months. In this class, JTextField class is used to accept the input from the user. To display the output or answer, I had used showMessagedialogue() method of JOptionPane class.
    <p align="center">
      <img src="https://github.com/user-attachments/assets/0e58911c-38fc-4183-a1b1-5226b2085059" alt="Image" width="300"/>
    </p>
 
 # CAGR Calculator
+This is the class where 
    <p align="center">
      <img src="https://github.com/user-attachments/assets/e60ec649-f1a6-43de-9408-d3a1af2f1130" alt="Image" width="300"/>
    </p>
